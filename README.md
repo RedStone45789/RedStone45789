@@ -1,0 +1,5 @@
+- 👋 Hi, i am RedStone
+- 💻 Software developer
+- 👨‍💻 Coding in Java, Python
+- 🎮 Currently learning C#, JavaScript
+- 💬 My discord is RedStone#6045
